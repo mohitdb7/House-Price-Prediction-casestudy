@@ -20,15 +20,6 @@ You are required to model the price of houses with the available independent var
 - Feature selection based on model
 - Providing the effects of each feature on Sale Price of the hous
 
-
-## Technologies Used
-- Python
-- Pandas
-- Numpy
-- LinearRegression, Ridge, Lasso
-- Scalling
-- matplotlib.pyplot
-- seaborn
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
@@ -63,9 +54,13 @@ Though the R2 Score, MSE and RMSE of Ridge is better than Lasso but Lasso will g
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python
+- Pandas
+- Numpy
+- LinearRegression, Ridge, Lasso
+- Scalling
+- matplotlib.pyplot
+- seaborn
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
